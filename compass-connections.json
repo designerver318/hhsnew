@@ -5,10 +5,10 @@
   },
   "connections": [
     {
-      "id": "a8f5a546-acb7-4ac1-bfb4-66871a111527",
+      "id": "7aa1bf6f-9246-477f-a936-ff0c7ba50577",
       "lastUsed": {
         "$date": {
-          "$numberLong": "1749233426669"
+          "$numberLong": "1749301879118"
         }
       },
       "favorite": {
@@ -25,6 +25,3 @@
     }
   ]
 }
-
-
-
