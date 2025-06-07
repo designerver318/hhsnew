@@ -1,0 +1,30 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "a8f5a546-acb7-4ac1-bfb4-66871a111527",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1749233426669"
+        }
+      },
+      "favorite": {
+        "name": "happyhoursDB",
+        "color": "color5"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
+
+
+
